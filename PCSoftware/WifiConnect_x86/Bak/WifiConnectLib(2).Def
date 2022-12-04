@@ -1,0 +1,6 @@
+LIBRARY WifiConnectLib.dll
+EXPORTS
+	WIFIConnect
+	WIFIDisconnect
+	WIFIGetData
+	WIFIPutData
